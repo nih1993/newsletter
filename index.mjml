@@ -6,101 +6,143 @@
       </mj-column>
       <mj-column></mj-column>
       <mj-column>
-        <mj-text font-family="Roboto medium,sans-serif" font-size="9px" line-height="120%" text-decoration="none" align="left"><strong>SHOP BY PHONE</strong> +33 1 05 70 72 20</mj-text>
+        <mj-text font-family="Roboto medium,sans-serif" font-size="9px" line-height="120%" text-decoration="none" align="left"><strong> TELEPHONE</strong> +33 1 05 70 72 20</mj-text>
       </mj-column>
     </mj-section>
+    
+    <mj-section>
+    <mj-column>
+      <mj-text>
+      <p>Bonjour *|FNAME|*</p></mj-text></mj-column></mj-section>
 
-    <mj-section background-url="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526387597/Fichier_14.png" background-repeat="no-repeat" height="120%" padding-left="270px" padding-right="0px" padding-top="380px">
-      
-        <mj-column border-left="4px solid red" align="right" >
+    <mj-section background-url="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526478507/Fichier_25.png" background-size="contain" background-repeat="no-repeat"  padding-top="70%">
+       <mj-column width="50%"></mj-column>
+        <mj-column width="50%" background-color="rgba(255, 255, 255, 0.5)" border-left="4px solid red" align="right" >
        
         
         
-        <mj-text  padding-bottom="0px" font-family="Raleway,sans-serif" font-size="10px" line-height="120%" ><strong  >PRÊTE A PRENDRE TON ENVOL ?<br></br></strong>Après 6 mois de développement, l’heure de Prendre Son Envol à bientôt sonné !<br></br>
-On trépigne d’impatience à l’idée de vous montrer nos merveilles : La Robe et La Blouse.</mj-text>
+        <mj-text  padding-bottom="5px" font-family="Raleway,sans-serif" font-size="11px" line-height="120%" ><strong  >PRÊTE A PRENDRE TON ENVOL ?</br></strong> </mj-text>
+   <mj-text  padding-bottom="5px" font-family="Raleway,sans-serif" font-size="11px" line-height="120%" >Après 6 mois de développement, l’heure de Prendre Son Envol à bientôt sonné !</mj-text>
+  
+   <mj-text  padding-bottom="5px" font-family="Raleway,sans-serif" font-size="11px" line-height="120%" >
+      On trépigne d’impatience à l’idée de vous montrer nos merveilles : La Robe et La Blouse.</br> </mj-text>
           <mj-text font-style="italic" font-family="Raleway Light,sans-serif" font-size="9px">Tout ça, c’est un peu grâce à vous, qui avez été nombreuses à <strong> partager </strong> vos envies et votre soutien via les réseaux sociaux.</mj-text>
       </mj-column>
     </mj-section>
-    
-     <mj-section  background-color="#cb9d85" >
-
-      <mj-column>
-     <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526385196/Fichier_9.png" alt="sac-shop" align="center" border="none" width="250px" padding-left="0px" padding-right="0px" padding-bottom="0" padding-top="0"></mj-image>
-       
-        <mj-button font-family="Raleway" background-color="#eecabe" color="white" href="rel">
-          Shop Now
-         </mj-button>
-      </mj-column>
-       
-       
-       
-
-      <mj-column>
-        <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526384393/Fichier_8.png" alt="sac-shop" align="center" border="none" width="260px" padding-left="0px" padding-right="20px" padding-bottom="0" padding-top="0"></mj-image>
-        
-        <mj-button font-family="Raleway" background-color="#eecabe" color="white" href="rel">
-         Shop Now
-         </mj-button>
-      </mj-column>
-
-    </mj-section>
    
+  
+      </mj-column>
+    </mj-section>
     
+    <mj-section  background-color="#eecabe">
+      <mj-column width="50%">
+       <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526640845/bag1-1.png"
+href="https://www.atelier-unes.com/"></mj-image>
+        
+        </mj-column>
+      
+        <mj-column width="50%">
+       <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526640175/bag2_1.png" 
+href="https://www.atelier-unes.com/"></mj-image>
+        </mj-column>
+    </mj-section>
+
     
     
     <mj-section>
-      <mj-column background-color="#FFFFFE">
-        <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526385448/Fichier_10.png" href="https://www.atelier-unes.com/" alt=""></mj-image>
-        <mj-text padding-top="25px" padding-bottom="25px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">Check out the iSpark introduction movie shot during the Arturia Experience event at the ADE featuring the Dutch beatmaker FilosofischeStilte.</mj-text>
-      </mj-column>
+    <mj-hero
+      mode="fixed-height"
+      height="469px"
+      width="100%"
+      background-width="600px"
+      background-height="469px"
+      background-url="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526480148/collection.png"
+      background-color="#2a3448"
+      padding="0px 0px px px">
+      <!-- To add content like mj-image, mj-text, mj-button ... use the mj-hero-content component -->
+      <mj-text
+        padding="20px"
+        color="transparent"
+        font-family="Raleway Bold"
+        align="center"
+        font-size="45"
+        line-height="45px"
+        font-weight="900">
+        VOIR PLUS
+      </mj-text>
+      <mj-button href="http://wp09.etu-etape-design.fr/wordpress/?page_id=2" align="center" background-color="transparent"  border="2px solid white" font-size="16px" font-family="Raleway Bold" padding-bottom="60px"  padding-top="20">
+       DECOUVRIR LA NOUVELLE COLLECTION
+      </mj-button>
+    </mj-hero>
+      </mj-section>
+    
+    
+    <mj-section padding-top="0">
+     <mj-hero
+      mode="fixed-height"
+      height="469px"
+      width="100%"
+      background-width="600px"
+      background-height="469px"
+      background-url="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526550581/Fichier_27.png"
+      background-color="#2a3448"
+      padding="0px 0px px 0px">
+      <!-- To add content like mj-image, mj-text, mj-button ... use the mj-hero-content component -->
+      <mj-text
+        padding-top="20px"
+        color="#FFFFFF"
+         align="left"
+         width="20%"
+        
+        font-family="Raleway Bold"
+        font-size="36px"
+        line-height="45px"
+        font-weight="800">
+        COLLECTION SANDALES
+      </mj-text>
+      <mj-button href="https://www.atelier-unes.com/"  background-color="transparent" border="2px solid white" font-size="16px" font-family="Raleway Bold" padding-bottom="100px"  align="left">
+       VOIR PLUS
+      </mj-button>
+    </mj-hero>
+      </mj-section>
+    
+
+        
     </mj-section>
-    <mj-section>
-      <mj-column background-color="#FFFFFE">
-        <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/07.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/details" alt=""></mj-image>
-        <mj-text padding-top="25px" padding-bottom="25px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">Follow Mauricio Garcia, Arturia Product Specialist, presenting you the many clever features of iSpark in this series of tutorials.</mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column background-color="#FFFFFE">
-        <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/08.jpg" href="https://www.arturia.com/products/ipad-synths/ispark/details" alt=""></mj-image>
-        <mj-text padding-top="25px" font-family="Helvetica,Arial,sans-serif" font-size="14px" line-height="120%">iSpark includes a tremendous collection of factory kits and individual instruments covering most of the field of application of beat-making but it is also compatible with the existing Spark resources and Expansion Packs.</mj-text>
-        <mj-button background-color="#2DDCB4"
-          padding-bottom="25px" border-radius="8px" href="https://www.arturia.com/products/ipad-synths/ispark/overview" font-size="14px" font-family="Helvetica,Arial,sans-serif" line-height="120%">Learn more about iSpark</mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#000001">
+    <mj-section padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="20px">
+      <mj-group>
       <mj-column>
-        <mj-text color="#FFFFFE" font-family="Helvetica,Arial,sans-serif" font-size="14px">Musically yours,<br /> The Arturia Team</mj-text>
+        <mj-image width="40px" src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526549470/facebook-icon.png" href="https://www.facebook.com/atelier.unes/"  padding="0" alt=""></mj-image>
       </mj-column>
-    </mj-section>
-    <mj-section padding-left="0px" padding-right="0px" padding-top="0px" padding-bottom="0px">
+ 
+  
       <mj-column>
-        <mj-image width="86px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/facebook_arturia.png" href="http://www.facebook.com/arturia2" alt=""></mj-image>
+        <mj-image width="40px" src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526549368/youtube-icon.png" href="http://www.youtube.com/"  padding="0" alt=""></mj-image>
       </mj-column>
+     
       <mj-column>
-        <mj-image width="86px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/youtube.png" href="http://www.youtube.com/arturiaweb" alt=""></mj-image>
+        <mj-image width="40px" src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526549254/pinterest-icon.png" href="https://www.pinterest.fr/atelier_unes/pins/" alt=""  padding="0"></mj-image>
       </mj-column>
+  
       <mj-column>
-        <mj-image width="86px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/Soundcloud.png" href="http://soundcloud.com/arturia-official" alt=""></mj-image>
+        <mj-image width="40px" src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526548853/instagram-icon.png" href="https://www.instagram.com/atelier.unes/" alt="" padding="0"></mj-image>
       </mj-column>
-      <mj-column>
-        <mj-image width="86px" src="https://www.arturia.com/images/newsletters/2016-02-ispark/twitter_arturia.png" href="http://twitter.com/arturiaofficial" alt=""></mj-image>
-      </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section padding-top="0px" padding-bottom="0px">
       <mj-column>
-        <mj-text font-family="Helvetica,Arial,sans-serif" padding-top="0px" align="center">See this email in your browser <a href="https://www.arturia.com/images/newsletters/2016-02-ispark/newsletter.html" style="text-decoration:none;color:#2DDCB4">here</a></mj-text>
+        
+        <mj-text font-family="Raleway,sans-serif" padding-top="0px" align="center">Voir cet email dans votre navigateur <a href="*|ARCHIVE|*" style="text-decoration:none;color:#2DDCB4">ici</a></mj-text>
         <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section padding-bottom="0px" padding-top="0px">
       <mj-column>
-        <mj-text padding-bottom="0px" padding-top="0px" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="12px">Your email address is on this list as a result of a subscription, information request, competition, or other correspondence you may have had with us in the past. If you would like to be removed from our list, check the email address this newsletter
-          was sent to and use the following link: <a href="https://www.arturia.com/index.php?option=com_myarturia&view=newsletter&task=unsubscribeFromEmail&email={email}&token={title}&utm_source=elasticemail&utm_medium=email&utm_campaign=arturia_unsubscribe_2016&utm_term=nl-ispark-launch&utm_content=unsubscribe_footer"
-            style="text-decoration:none;color:#2DDCB4">Unsubscribe</a>. Privacy policy available <a href="https://www.arturia.com/privacypolicy" style="text-decoration:none;color:#2DDCB4">here</a>.</mj-text>
-        <mj-text padding-bottom="0px" font-family="Helvetica,Arial,sans-serif"
-          font-size="10px" line-height="12px">ARTURIA: <a href="https://www.arturia.com" style="text-decoration:none;color:#2DDCB4">https://www.arturia.com</a> - Contact: <a href="mailto:info@arturia.com" style="text-decoration:none;color:#2DDCB4">info</a><br /> ARTURIA France: 30 chemin
-          du vieux chêne, 38240 Meylan - FRANCE<br /> ARTURIA US: : 5776-D Lindero Cyn Rd #239 -Westlake Village, CA 91362 - USA</mj-text>
+        <mj-text padding-bottom="0px" padding-top="0px" font-family="rALEWAY,sans-serif" font-size="10px" line-height="12px">Votre adresse e-mail figure sur cette liste à la suite d'un abonnement, d'une demande d'informations, d'un concours ou de toute autre correspondance que vous avez pu avoir avec nous par le passé. Si vous souhaitez être retiré de notre liste, vérifiez l'adresse e-mail de cette newsletter a été envoyé à et utiliser le lien suivant: <a href="https://www.atelier-unes.com/"
+            style="text-decoration:none;color:#2DDCB4">Se desinscrire</a>. 
+Politique de confidentialité disponible <a href="https://www.atelier-unes.com/" style="text-decoration:none;color:#2DDCB4">ici</a>.</mj-text>
+        <mj-text padding-bottom="0px" font-family="Raleway,sans-serif"
+          font-size="10px" line-height="12px">ATELIER UNES: <a href="https://www.atelier-unes.com/" style="text-decoration:none;color:#2DDCB4">https://www.atelier-unes.com/</a> - Contact: <a href="mailto:info@ATELIER.com" style="text-decoration:none;color:#2DDCB4">info</a><br /> ATELIER UNES France: 14 Rue Neuve Popincourt, Paris 75011 - FRANCE</mj-text>
         <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
       </mj-column>
     </mj-section>
