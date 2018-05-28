@@ -41,13 +41,13 @@
     
     <mj-section  background-color="#eecabe">
       <mj-column width="50%">
-       <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526640845/bag1-1.png"
+       <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1527253890/Fichier-43.png"
 href="https://www.atelier-unes.com/"></mj-image>
         
         </mj-column>
       
         <mj-column width="50%">
-       <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1526640175/bag2_1.png" 
+       <mj-image src="http://res.cloudinary.com/dmmwlv46p/image/upload/v1527253890/Fichier-44.png" 
 href="https://www.atelier-unes.com/"></mj-image>
         </mj-column>
     </mj-section>
@@ -103,7 +103,7 @@ href="https://www.atelier-unes.com/"></mj-image>
         font-size="36px"
         line-height="45px"
         font-weight="800">
-        COLLECTION SANDALES
+        LES </br> SANDALES
       </mj-text>
       <mj-button href="https://www.atelier-unes.com/"  background-color="transparent" border="2px solid white" font-size="16px" font-family="Raleway Bold" padding-bottom="100px"  align="left">
        VOIR PLUS
